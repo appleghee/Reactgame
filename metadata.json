@@ -1,0 +1,5 @@
+{
+  "name": "Bouncing Ball Physics",
+  "description": "A mobile-friendly bouncing ball game with physics mechanics.",
+  "requestFramePermissions": []
+}
